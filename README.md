@@ -1,4 +1,4 @@
-# PROGRAMA DE SIMULAÇÃO DE VOTOS - ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
+# Realizar a separação dos suspeitos de COVID-19 dos não suspeitos
 
 [![MIT license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
